@@ -7,42 +7,9 @@
 
 # Lista de Lenguajes de Programación
 
-## Python
+# Lista de Lenguajes de Programación
 
-<img src="ruta/imagen_python.png" alt="Imagen de Python" width="65" height="65">
-
-## JavaScript
-
-<img src="ruta/imagen_javascript.png" alt="Imagen de JavaScript" width="65" height="65">
-
-## Java
-
-<img src="ruta/imagen_java.png" alt="Imagen de Java" width="65" height="65">
-
-## C++
-
-<img src="ruta/imagen_cplusplus.png" alt="Imagen de C++" width="65" height="65">
-
-## Ruby
-
-<img src="ruta/imagen_ruby.png" alt="Imagen de Ruby" width="65" height="65">
-
-## Go
-
-<img src="ruta/imagen_go.png" alt="Imagen de Go" width="65" height="65">
-
-## PHP
-
-<img src="ruta/imagen_php.png" alt="Imagen de PHP" width="65" height="65">
-
-## Swift
-
-<img src="ruta/imagen_swift.png" alt="Imagen de Swift" width="65" height="65">
-
-## Rust
-
-<img src="ruta/imagen_rust.png" alt="Imagen de Rust" width="65" height="65">
-
+<img src="ruta/imagen_python.png" alt="Imagen de Python" width="65" height="65"> <img src="ruta/imagen_javascript.png" alt="Imagen de JavaScript" width="65" height="65"> <img src="ruta/imagen_java.png" alt="Imagen de Java" width="65" height="65"> <img src="ruta/imagen_cplusplus.png" alt="Imagen de C++" width="65" height="65"> <img src="ruta/imagen_ruby.png" alt="Imagen de Ruby" width="65" height="65"> <img src="ruta/imagen_go.png" alt="Imagen de Go" width="65" height="65"> <img src="ruta/imagen_php.png" alt="Imagen de PHP" width="65" height="65"> <img src="ruta/imagen_swift.png" alt="Imagen de Swift" width="65" height="65"> <img src="ruta/imagen_rust.png" alt="Imagen de Rust" width="65" height="65">
 
 
 ____

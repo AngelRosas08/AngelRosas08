@@ -9,7 +9,7 @@
 
 # Lista de Lenguajes de Programación
 
-<img src="ruta/imagen_python.png" alt="Imagen de Python" width="65" height="65"> <img src="ruta/imagen_javascript.png" alt="Imagen de JavaScript" width="65" height="65"> <img src="ruta/imagen_java.png" alt="Imagen de Java" width="65" height="65"> <img src="ruta/imagen_cplusplus.png" alt="Imagen de C++" width="65" height="65"> <img src="ruta/imagen_ruby.png" alt="Imagen de Ruby" width="65" height="65"> <img src="ruta/imagen_go.png" alt="Imagen de Go" width="65" height="65"> <img src="ruta/imagen_php.png" alt="Imagen de PHP" width="65" height="65"> <img src="ruta/imagen_swift.png" alt="Imagen de Swift" width="65" height="65"> <img src="ruta/imagen_rust.png" alt="Imagen de Rust" width="65" height="65">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/800px-Python.svg.png" alt="Imagen de Python" width="65" height="65"> <img src="https://knowbility.org/media/pages/blog/the-myth-of-javascript-accessibility/fc4717b7ec-1662134552/javascriptlogosmall.png" alt="Imagen de JavaScript" width="65" height="65"> <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" alt="Imagen de Java" width="65" height="65"> <img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" alt="Imagen de C++" width="65" height="65"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="Imagen de PHP" width="65" height="65">
 
 
 ____

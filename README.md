@@ -5,8 +5,44 @@
 ##### Programming languages
 
 
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="65" height="65"/> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="65" height="65"/> </a>
-</p>
+# Lista de Lenguajes de Programación
+
+## Python
+
+<img src="ruta/imagen_python.png" alt="Imagen de Python" width="65" height="65">
+
+## JavaScript
+
+<img src="ruta/imagen_javascript.png" alt="Imagen de JavaScript" width="65" height="65">
+
+## Java
+
+<img src="ruta/imagen_java.png" alt="Imagen de Java" width="65" height="65">
+
+## C++
+
+<img src="ruta/imagen_cplusplus.png" alt="Imagen de C++" width="65" height="65">
+
+## Ruby
+
+<img src="ruta/imagen_ruby.png" alt="Imagen de Ruby" width="65" height="65">
+
+## Go
+
+<img src="ruta/imagen_go.png" alt="Imagen de Go" width="65" height="65">
+
+## PHP
+
+<img src="ruta/imagen_php.png" alt="Imagen de PHP" width="65" height="65">
+
+## Swift
+
+<img src="ruta/imagen_swift.png" alt="Imagen de Swift" width="65" height="65">
+
+## Rust
+
+<img src="ruta/imagen_rust.png" alt="Imagen de Rust" width="65" height="65">
+
 
 
 ____
@@ -48,21 +84,6 @@ _____
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="65" height="65"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="65" height="65"/>  </a>
   </p>
-
-
-#### Algunos de mis proyectos:
-
-
-
-| notFoundResponsive  | rockPaperScissors  | toDoSimple  |
-|---|---|---|
-| <a href="https://github.com/carlossalvadordiaz/404-not-found" target="_blank"> <img src="/images/404.png" width="250" height="200"/></a> |  <a href="https://codepen.io/carlossalvadordiaz/pen/bGeXeGq" target="_blank"> <img src="/images/rps.png" width="250" height="200"/></a> | <a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/images/toDo.png" width="250" height="200"/></a>  |
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlossalvadordiaz&show_icons=true&locale=en&layout=compact" alt="carlossalvadordiaz" /></p>
-
-
 
 #### ¿Hablamos?☕️
 

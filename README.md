@@ -1,23 +1,7 @@
-### Mi nombre es Carlos Salvador 👋
-#### Desarrollador web junior full-stack 💻 actualmente en **búsqueda activa** de empleo♨️
-
-
-
-
-#### Actualmente me dedico a:
-
-
-- Reforzar conocimientos sobre el stack tecnológico MEAN y nuevas tecnologías
-- Realizar un proyecto full stack (MEAN) 👉🏻 [duoTracker fullStack](https://github.com/carlossalvadordiaz/duotracker-frontend)
-- Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo
-- Aportar semanalmente 3-4 mini-proyectos en github/codepen.
-___
-
-
+### Mi nombre es Angel Rosas 👋
+#### Desarrollador junior 💻 actualmente en **búsqueda activa** de empleo♨️
 
 #### Tengo conocimientos sobre:
-
-
 ##### Programming languages
 
 

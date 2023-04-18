@@ -1,19 +1,6 @@
 ### Mi nombre es Angel Rosas 👋
 #### Desarrollador junior 💻 actualmente en **búsqueda activa** de empleo♨️
 
-#### Tengo conocimientos sobre:
-##### Programming languages
-
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/800px-Python.svg.png" alt="Imagen de Python" width="65" height="65"> <img src="https://knowbility.org/media/pages/blog/the-myth-of-javascript-accessibility/fc4717b7ec-1662134552/javascriptlogosmall.png" alt="Imagen de JavaScript" width="65" height="65"> <img src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png" alt="Imagen de Java" width="75" height="65"> <img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" alt="Imagen de C++" width="65" height="65"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="Imagen de PHP" width="65" height="65">
-
-
-____
-
-
-##### FrontEnd Development
-
-
 <p align="left>
 <a href="https://angular.io" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="65" height="65"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="65" height="65"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="65" height="65"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="65" height="65"/> </a> <a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="65" height="65"/> </a>
 </p>

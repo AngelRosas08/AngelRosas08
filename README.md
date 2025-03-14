@@ -1,5 +1,5 @@
 ### Mi nombre es Angel Rosas 👋
-#### Desarrollador Front end jr💻 actualmente estudinate de ingenieria en sistemas♨️
+#### Desarrollador Front end jr💻 Ingenieria en sistemas♨️
 
 #### ¿Hablamos?☕️
 
